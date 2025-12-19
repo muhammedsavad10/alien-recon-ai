@@ -17,3 +17,5 @@ This project applies core Machine Learning concepts to a real-world (and out-of-
 
 ## 📁 Dataset
 Powered by **ImageNet-1K**, providing a knowledge base of 1,000 unique Earth entities.
+
+![Screenshot](project_example.png)
